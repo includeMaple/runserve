@@ -1,2 +1,5 @@
-# runserve
-node static serve
+
+```npm install runserve -g```
+
+```runserve```
+
