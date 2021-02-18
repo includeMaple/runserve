@@ -1,0 +1,2 @@
+# runserve
+node static serve
