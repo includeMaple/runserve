@@ -1,3 +1,7 @@
+[![Github Releases](https://img.shields.io/npm/l/runserve.svg)](https://github.com/includeMaple/runserve) 
+[![Github Releases](https://img.shields.io/npm/v/runserve.svg)](https://github.com/includeMaple/runserve)
+[![Github Releases](https://img.shields.io/npm/dm/runserve.svg)](https://github.com/includeMaple/runserve)
+
 # 安装
 
 ```npm install runserve -g```
